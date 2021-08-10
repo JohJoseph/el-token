@@ -3,8 +3,7 @@
   "version": "0.1.0",
   "description": "Decentralized Ethereum Token Exchange",
   "author": "JohJoseph -- Organitech365@gmail.com",
-  "private": true,
-  "homepage": ".",
+  "homepage": "https://el-token.herokuapp.com/",
   "engines": {
     "node": "14.17.3"
   },
@@ -43,7 +42,7 @@
     "truffle-hdwallet-provider-privkey": "0.3.0",
     "web3": "1.2.6"
   },
-  "homepage": "https://el-token.herokuapp.com/",
+  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

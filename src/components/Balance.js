@@ -103,6 +103,7 @@ const showForm = (props) => {
                     <div className="col-12 col-sm pr-sm-2">
                         <input
                         type="text"
+                        placeholder="ELT Amount"
                         onChange={(e) => dispatch( tokenDepositAmountChanged (e.target.value) ) }
                         className="form-control form-control-sm bg-dark text-white"
                         required />
